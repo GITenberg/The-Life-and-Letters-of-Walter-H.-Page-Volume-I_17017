@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1097'
     url: http://www.gutenberg.org/2009/agents/1097
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17017#The-Life-and-Letters-of-Walter-H.-Page-Volume-I
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-11-06'
 gutenberg_type: Text
